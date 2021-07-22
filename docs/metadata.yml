@@ -1,0 +1,65 @@
+# textbook information
+
+title: Lantern
+subtitle: Minimal Computing Workflows for Publishing Open Textbooks
+
+author:
+  - name: Chris Diaz
+    affiliation: Northwestern University
+    orchid:
+  - name: Lauren McKeen McDonald
+    affiliation: Northwestern University
+    orchid:
+
+contributor:
+  - Maria Palacio
+  - Angelina Jaglinski
+  - Sherry Wang
+
+publication-year: 2021
+doi: 10.1000/xyz123
+isbn-p:
+isbn-e:
+
+keywords:
+  - digital publishing
+  - pandoc
+  - open educational resources
+
+subjects: 
+  - Academic Libraries
+  - Technology
+
+description: |
+  Lantern introduces and demonstrates a minimal computing approach to producing textbooks using free and open source software.
+
+  This guide includes tutorials and documentation to help you use the technology for your own textbook projects. 
+
+# this sets the language attribute for html and epub outpus
+# see https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang for more info
+lang: en-us 
+
+# copyright and licensing information
+
+copyright:
+  holder: Chris Diaz & Lauren McKeen McDonald
+  # see https://rightsstatements.org/ for recommended statement and uri options
+  statement: In Copyright 
+  statement-uri: http://rightsstatements.org/vocab/InC/1.0/
+  # see https://creativecommons.org/licenses/ for recommended license and uri options
+  license: Attribution 4.0 International (CC BY 4.0) 
+  licence-uri: https://creativecommons.org/licenses/by/4.0/
+
+publisher:
+  name: Northwestern University Libraries
+  location: Evanston, IL # city, state
+  website: https://library.northwestern.edu
+
+# publication settings
+
+cover: true
+
+toc-title: "User Guide" # name for the table of contents
+reference-section-title: "References" # name for the references or bibliography section
+
+linkReferences: true
