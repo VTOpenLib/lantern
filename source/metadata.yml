@@ -4,33 +4,34 @@ title: Title
 subtitle: Subtitle
 
 author:
-  - name: First Author
-    affiliation: College
-  - name: Second Author
-    affiliation: University
+  - name: Stanley J. Swizzle, Jr.
+    affiliation: Exceptional University
+  - name: Karim F. Njdamib
+    affiliation: College of the Mountains
 
 contributor:
-  - Research Assistant
-  - Research Assistant
+  - Elmer Bonzo
+  - Francine Delagado
 
 publication-year: 2021
 doi: 10.1000/xyz123
-isbn-p: something
-isbn-e: something
-website: seomthing
+isbn-p: 978-0-00-867530-9
+isbn-e: 978-0-01-867530-9
+website: http://www.github.com
 
 keywords:
-  - keyword
-  - keyword
-  - keyword
+  - statistical methods
+  - probability
+  - Probability
+  - Is there any spell-check
 
 subjects: 
-  - Subject
-  - Subject
-  - Subject
+  - numbers game
+  - introductory statistics
+  - Statistics for Undergrads
 
 description: |
-  Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+   This description is indentedby three spaces. Must it be? What happens if I delete one or more of the spaces? I see also that the "any text or symbols go" here < > < @ Just checking! chitecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
 
 # this sets the language attribute for html and epub outpus
 # see https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/lang for more info
@@ -47,20 +48,20 @@ copyright:
   license: Attribution 4.0 International (CC BY 4.0) 
   license-uri: https://creativecommons.org/licenses/by/4.0/
   attribution: |
-    [Lastname, Firstname. Title of Book. Place of publication: Publisher, Year of publication.]
+    [Hammil, Ted. Introduction to Statistics. Boston: Boston Books, 2021. Adapted from Jim Harris's "Introduction to Statistics" retrieved from https://open.umn.edu/opentextbooks. See version notes for complete information.]
   exceptions:    
     - Chapter written under a different license
     - Image used with permission of the creator
 
 publisher:
-  name: Publishing Organization
-  location: City, State
+  name: Boston Books
+  location: Boston, Massachusettes
   website: https://example.com
   disclaimer: |
-    Use this space to add any legal disclaimers about the book.
+    This textbook is not intended to diagonose any medical or other conditions. La la la
 
 editor:
-  book: Editor Name # name of book editor
+  book: Wordsworth Billington
   series: Editor Name # name of series editor
 
 # publication settings
