@@ -2,8 +2,8 @@
 
 ::: box
 
-- **First Author**, _Affiliation_
-- **Second Author**, _Affiliation_
+- **Barney Rubble**, _Affiliation_
+- **Fred Flinstone, jr**, _Affiliation_
 
 :::
 
@@ -32,6 +32,79 @@ Soup cranberry spritzer edamame hummus figs tomato and basil Bolivian rainbow pe
 | $1$   | CCC  | thing |
 
 : This is an example table. {#tbl:variables}
+
+
+## Anita's math sandbox
+MathML
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <msub>
+    <mi>V</mi>
+    <mrow>
+      <mi>M</mi>
+      <mi>P</mi>
+    </mrow>
+  </msub>
+  <mo>=</mo>
+  <msup>
+    <msqrt>
+      <mfrac>
+        <mrow>
+          <mn>2</mn>
+          <mi>W</mi>
+        </mrow>
+        <mrow>
+          <mi>ρ</mi>
+          <mi>S</mi>
+          <msub>
+            <mi>C</mi>
+            <mrow>
+              <msub>
+                <mi>L</mi>
+                <mrow>
+                  <mi>M</mi>
+                  <mi>P</mi>
+                </mrow>
+              </msub>
+            </mrow>
+          </msub>
+        </mrow>
+      </mfrac>
+    </msqrt>
+    <mrow>
+      <mn>1</mn>
+      <mrow>
+        <mo>/</mo>
+      </mrow>
+      <mn>2</mn>
+    </mrow>
+  </msup>
+</math>
+
+AsciiMath
+V_(MP)=sqrt(2W)/(rho SC_(L_(MP)))^(1//2)
+
+1. 
+V_{M P}=\sqrt{\frac{2 W}{\rho S C_{L_{M P}}}}^{1 / 2}
+
+2. 
+$V_{M P}=\sqrt{\frac{2 W}{\rho S C_{L_{M P}}}}^{1 / 2}$
+
+3.
+$$
+V_{M P}=\sqrt{\frac{2 W}{\rho S C_{L_{M P}}}}^{1 / 2}
+$$
+
+4. 
+\begin{equation}
+V_{M P}=\sqrt{\frac{2 W}{\rho S C_{L_{M P}}}}^{1 / 2}
+\end{equation}
+
+5. 
+V_{M P}=\sqrt{\frac{2 W}{\rho S C_{L_{M P}}}}^{1 / 2}
+
+
+
+
 
 ## Math 
 
