@@ -90,9 +90,7 @@ V_{M P}=\sqrt{\frac{2 W}{\rho S C_{L_{M P}}}}^{1 / 2}
 $V_{M P}=\sqrt{\frac{2 W}{\rho S C_{L_{M P}}}}^{1 / 2}$
 
 3.
-$$
-V_{M P}=\sqrt{\frac{2 W}{\rho S C_{L_{M P}}}}^{1 / 2}
-$$
+$$V_{M P}=\sqrt{\frac{2 W}{\rho S C_{L_{M P}}}}^{1 / 2}$$
 
 4. 
 \begin{equation}
