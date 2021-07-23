@@ -128,9 +128,11 @@ Soup cranberry spritzer edamame hummus figs tomato and basil Bolivian rainbow pe
 
 ## Figure Images
 
-This is the first subsection. Please, admire the gloriousnes of this graph:
+This is the first subsection. Please, admire the gloriousness of this graph:
 
 ![A cool graph](graph.png){#fig:graph}
+
+![a public domain image](carnegie_library.png)[#fig:carnegic_library}
 
 ## Tables
 
