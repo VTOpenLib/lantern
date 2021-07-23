@@ -16,7 +16,7 @@ None
 
 3.  Determine whether the frequentist or subjective approach is better suited for a given situation
 
-**Introduction to Probability Standard**
+## Introduction to Probability Standard
 
 **Inferential statistics**[^1] is built on the foundation of probability theory, and has been remarkably successful in guiding opinion about the conclusions to be drawn from data. Yet (paradoxically) the very idea of probability has been plagued by controversy from the beginning of the subject to the present day. In this section we provide a glimpse of the debate about the interpretation of the probability concept.
 
